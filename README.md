@@ -6,7 +6,7 @@
 2) Bootstrap skill was enhanced  
 3) Making A React Application Mobile Friendly  
 
-##### Changes Compared To Portfolio 1 
+## Changes Compared To Portfolio 1 ->
 1) Made UI compatible for Mobile Devices.
 2) Shifted To Simple Black-White theme when compared to colorful theme.
 
